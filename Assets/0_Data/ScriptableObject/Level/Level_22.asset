@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 887302dc08160794ebc2cac860b210e8, type: 3}
+  m_Name: Level_22
+  m_EditorClassIdentifier: 
+  levelIndex: 22
+  levelName: Level_22
+  previewImage: {fileID: 0}
+  key: 51
+  showGizmos: 1
+  items:
+  - id: 
+    pointName: Point_1
+    prefab: {fileID: 8203254886181456902, guid: 1acdb674be98abf4d84f06391033519e, type: 3}
+    position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_2
+    prefab: {fileID: 3799570239504602421, guid: 4f03535b2af12b943a29663f03cecbfb, type: 3}
+    position: {x: 0.06, y: 0.61}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_3
+    prefab: {fileID: 1769212632299370482, guid: 1a500242e7a5d794ab5a57a72199325d, type: 3}
+    position: {x: 0.06, y: 0.61}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_4
+    prefab: {fileID: 1386163591609950007, guid: c0da89d153cde6c47b1e5960016d1b93, type: 3}
+    position: {x: -1.27, y: -0.88}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_5
+    prefab: {fileID: 2204551461817391524, guid: be534c3ccf12a204d9eb4075e10cb263, type: 3}
+    position: {x: 1.36, y: -0.93}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_6
+    prefab: {fileID: 73924439187744124, guid: a09fcf02c75f2a74b8770fe37ad06dbb, type: 3}
+    position: {x: -0.84, y: -2.58}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_7
+    prefab: {fileID: 8578069696824180958, guid: 26bd2e3c80bff3d49b7ecc918a764ce2, type: 3}
+    position: {x: 1.14, y: -2.57}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1

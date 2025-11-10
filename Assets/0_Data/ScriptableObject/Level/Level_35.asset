@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 887302dc08160794ebc2cac860b210e8, type: 3}
+  m_Name: Level_35
+  m_EditorClassIdentifier: 
+  levelIndex: 35
+  levelName: Level_35
+  previewImage: {fileID: 0}
+  key: 77
+  showGizmos: 1
+  items:
+  - id: 
+    pointName: Point_1
+    prefab: {fileID: 816903754800854522, guid: 298816d39a77a5746bf2ba9f163aa318, type: 3}
+    position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_2
+    prefab: {fileID: 8243695455647056699, guid: 2708c85a0500ecb48a5405083737e012, type: 3}
+    position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_3
+    prefab: {fileID: 2063368793477615265, guid: 9204ab34efcd4644e8edc4d54db8d220, type: 3}
+    position: {x: -1, y: 1.53}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_4
+    prefab: {fileID: 6429947532827915485, guid: 5c29c5aef90385241b8bab27abe19015, type: 3}
+    position: {x: 1.25, y: 2.04}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_5
+    prefab: {fileID: 8359593619065215029, guid: 8966cbe49d0e0ed46ac77a8c25a49ebb, type: 3}
+    position: {x: 0.55, y: 1.01}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_6
+    prefab: {fileID: 425594284384465850, guid: ed3c2eae0741ff846a66f7ede2b76d58, type: 3}
+    position: {x: -1, y: 1.53}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_7
+    prefab: {fileID: 5417395325402885279, guid: ffdc0467073c15748b1678455e7aee13, type: 3}
+    position: {x: -1, y: 1.53}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_8
+    prefab: {fileID: 8949224722151028312, guid: 665c969751230df478db49beb0013cf4, type: 3}
+    position: {x: 1.25, y: 2.04}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_9
+    prefab: {fileID: 8123423833876184988, guid: 99d86a151eb2fea4fb9dfbcbd896ee28, type: 3}
+    position: {x: -0.93, y: -0.24}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1

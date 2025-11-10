@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 887302dc08160794ebc2cac860b210e8, type: 3}
+  m_Name: Level_40
+  m_EditorClassIdentifier: 
+  levelIndex: 40
+  levelName: Level_40
+  previewImage: {fileID: 6161006762040947212, guid: c8e1aed4182b81640b3b1dc72b875437, type: 3}
+  key: 87
+  showGizmos: 1
+  items:
+  - id: 
+    pointName: Point_1
+    prefab: {fileID: 1165130605805908990, guid: f16ae385a66411b4f99a05c4893074c8, type: 3}
+    position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_2
+    prefab: {fileID: 760291987455238271, guid: 7f40d8326b56e9b429ec48b0c8ea72aa, type: 3}
+    position: {x: -1.38, y: -1.66}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1

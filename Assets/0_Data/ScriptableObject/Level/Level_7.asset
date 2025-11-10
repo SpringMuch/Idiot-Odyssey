@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 887302dc08160794ebc2cac860b210e8, type: 3}
+  m_Name: Level_7
+  m_EditorClassIdentifier: 
+  levelIndex: 7
+  levelName: Level_7
+  previewImage: {fileID: 6161006762040947212, guid: c8e1aed4182b81640b3b1dc72b875437, type: 3}
+  key: 21
+  showGizmos: 1
+  items:
+  - id: 
+    pointName: Point_1
+    prefab: {fileID: 1469944508501322875, guid: 6d0c74123a7ed94499151bb2caef3aa2, type: 3}
+    position: {x: 0, y: 0}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_2
+    prefab: {fileID: 5592907305629145198, guid: 187deff15084cf540b775dd23efd1d70, type: 3}
+    position: {x: 1.33, y: -2.62}
+    rotation: 0
+    scale: {x: 0.7, y: 0.7}
+    count: 1
+  - id: 
+    pointName: Point_3
+    prefab: {fileID: 4476067417164914176, guid: d6a6edb2c7f323e40a948901bcccb748, type: 3}
+    position: {x: -1.33, y: -3.89}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_4
+    prefab: {fileID: 6756519842069292327, guid: 5a8a2e7d839750240b70e41cc6c94f11, type: 3}
+    position: {x: -0.2, y: -3.02}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_5
+    prefab: {fileID: 1717124915218008991, guid: cb96b5e157b20074bbecf3edaae027f6, type: 3}
+    position: {x: 1.53, y: -2.64}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_6
+    prefab: {fileID: 2535201940672857129, guid: 683dec4dcfc2c554eaf16efa3311d403, type: 3}
+    position: {x: 0.55, y: -4.22}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1
+  - id: 
+    pointName: Point_7
+    prefab: {fileID: 9060423078300885333, guid: b2a2cb0ff13f25e4b9b82ddc1627c201, type: 3}
+    position: {x: -0.88, y: 1.3}
+    rotation: 0
+    scale: {x: 1, y: 1}
+    count: 1

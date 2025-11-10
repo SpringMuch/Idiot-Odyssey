@@ -1,0 +1,489 @@
+{
+  "items": [
+    {
+      "key": "START",
+      "en": "Start",
+      "vi": "Bắt đầu"
+    },
+    {
+      "key": "EXIT",
+      "en": "Exit",
+      "vi": "Thoát"
+    },
+    {
+      "key": "HELLO",
+      "en": "Hello!",
+      "vi": "Xin chào!"
+    },
+    {
+      "key": "SELECT_MENU",
+      "en": "Select Menu",
+      "vi": "Chọn Màn"
+    },
+    {
+      "key": "LEVEL",
+      "en": "Level: {0}",
+      "vi": "Cấp Độ: {0}"
+    },
+    {
+      "key": "MUSIC",
+      "en": "Music",
+      "vi": "Âm Nhạc"
+    },
+    {
+      "key": "SOUND",
+      "en": "Sound",
+      "vi": "Âm Thanh"
+    },
+    {
+      "key": "REPLAY",
+      "en": "Replay",
+      "vi": "Chơi Lại"
+    },
+    {
+      "key": "HOME",
+      "en": "Home",
+      "vi": "Màn Hình Chính"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_1",
+      "en": "Help ChinGuy get back to normal!",
+      "vi": "Giúp Cằm Chẻ trở lại bình thường!"
+    },
+    {
+      "key": "HINT_LEVEL_1",
+      "en": "Tap the moon",
+      "vi": "Nhấn vào mặt trăng"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_2",
+      "en": "Help ChinGuy warm up!",
+      "vi": "Giúp Cằm chẻ làm ấm!"
+    },
+    {
+      "key": "HINT_LEVEL_2",
+      "en": "Tap the sun",
+      "vi": "Nhấn vào mặt trời"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_3",
+      "en": "Clean up the phone!",
+      "vi": "Hãy làm sạch điện thoại!"
+    },
+    {
+      "key": "HINT_LEVEL_3",
+      "en": "Tap repeatedly",
+      "vi": "Nhấn điện thoại nhiều lần"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_4",
+      "en": "Don’t let the balloon fly away!",
+      "vi": "Giữ lại quả bóng bay!"
+    },
+    {
+      "key": "HINT_LEVEL_4",
+      "en": "Hold the balloon!",
+      "vi": "Nhấn giữ quả bóng bay!"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_5",
+      "en": "Help Potato pop the Cole cap!",
+      "vi": "Giúp Khoai Tây mở nắp Cole!"
+    },
+    {
+      "key": "HINT_LEVEL_5",
+      "en": "Shake the phone",
+      "vi": "Lắc điện thoại"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_6",
+      "en": "Help baby Lord Meow stop crying!",
+      "vi": "Hãy làm cho bé mèo nín khóc lại!"
+    },
+    {
+      "key": "HINT_LEVEL_6",
+      "en": "Drag the milk to baby Lord Meow",
+      "vi": "Kéo sữa vào cho bé mèo"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_7",
+      "en": "Find Lord Meow!",
+      "vi": "Hãy tìm Đấng Mèo!"
+    },
+    {
+      "key": "HINT_LEVEL_7",
+      "en": "Behind the box!",
+      "vi": "Phía sau cái hộp!"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_8",
+      "en": "Help Lord Meow stay asleep!",
+      "vi": "Giúp Lord Meow tiếp tục ngủ!"
+    },
+    {
+      "key": "HINT_LEVEL_8",
+      "en": "Yeet the clock out the window!",
+      "vi": "Quăng đồng hồ ra khỏi cửa sổ!"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_9",
+      "en": "Operation Earthfall: Lord Meow to Earth!",
+      "vi": "Chiến dịch Rơi Xuống Trái Đất: Đấng Mèo đến Trái Đất!"
+    },
+    {
+      "key": "HINT_LEVEL_9",
+      "en": "Drag the space ship to the Earth",
+      "vi": "Kéo thuyền không gian đến Trái Đất"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_10",
+      "en": "How many months in a year have 28 days?",
+      "vi": "Có bao nhiêu tháng trong năm có 28 ngày?"
+    },
+    {
+      "key": "HINT_LEVEL_10",
+      "en": "Every months have 28 days",
+      "vi": "Tháng nào cũng có 28 ngày"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_11",
+      "en": "Help Lord Meow unlock that fridge!",
+      "vi": "Giúp Đấng Mèo mở tủ lạnh bị khóa!"
+    },
+    {
+      "key": "HINT_LEVEL_11",
+      "en": "Tap repeatedly that lock",
+      "vi": "Nhấn nhiều lần vào ổ khóa"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_12",
+      "en": "Help Lord Meow break out!",
+      "vi": "Hãy giúp Đấng Mèo vượt ngục!"
+    },
+    {
+      "key": "HINT_LEVEL_12",
+      "en": "The key must be somewhere around here...",
+      "vi": "Chìa khóa hẳn là phải ở đâu đó xung quanh đây..."
+    },
+
+    {
+      "key": "QUESTION_LEVEL_13",
+      "en": "Help Lord Meow get back to the spaceship!",
+      "vi": "Giúp Đấng Mèo quay lại phi thuyền!"
+    },
+    {
+      "key": "HINT_LEVEL_13",
+      "en": "Tap ChinGuy and drag Lord Meow to ship",
+      "vi": "Chạm vào Cằm Chẻ và kéo Đấng Mèo đến thuyền"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_14",
+      "en": "Help Lord Meow get back home!",
+      "vi": "Giúp Đấng Mèo về nhà!"
+    },
+    {
+      "key": "HINT_LEVEL_14",
+      "en": "Drag space ship to the star",
+      "vi": "Kéo phi thuyền đến ngôi sao"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_15",
+      "en": "Help ChinGuy plant the mushroom!",
+      "vi": "Giúp Cằm Chẻ trồng nấm!"
+    },
+    {
+      "key": "HINT_LEVEL_15",
+      "en": "Drag and Tap the cloud",
+      "vi": "Kéo và nhấn vào đám mây"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_16",
+      "en": "Help Potato get full!",
+      "vi": "Giúp Khoai Tây no bụng!"
+    },
+    {
+      "key": "HINT_LEVEL_16",
+      "en": "Scale up the mushroom",
+      "vi": "Phóng to nấm lên"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_17",
+      "en": "Help Potato defeat ChinGuy!",
+      "vi": "Giúp Khoai Tây đánh bại Cằm Chẻ!"
+    },
+    {
+      "key": "HINT_LEVEL_17",
+      "en": "Tap on ChinGuy",
+      "vi": "Chạm vào Cằm Chẻ"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_18",
+      "en": "Come on, high five!",
+      "vi": "Đập tay nào!"
+    },
+    {
+      "key": "HINT_LEVEL_18",
+      "en": "Hold the hand",
+      "vi": "Ấn giữ bàn tay"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_19",
+      "en": "Help Potato pass \nthis level!",
+      "vi": "Giúp Potato thắng \nmàn chơi này!"
+    },
+    {
+      "key": "HINT_LEVEL_19",
+      "en": "Tap on win",
+      "vi": "Ấn vào 'thắng'"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_20",
+      "en": "Help Kiwi Na wake up!",
+      "vi": "Giúp Kiwi Na tỉnh dậy!"
+    },
+    {
+      "key": "HINT_LEVEL_20",
+      "en": "Tap repeatedly on bell",
+      "vi": "Ấn nhiều lần vào cái chuông"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_21",
+      "en": "Help ChinGuy pass the door!",
+      "vi": "Giúp Cằm Chẻ qua cánh cửa!"
+    },
+    {
+      "key": "HINT_LEVEL_21",
+      "en": "Scale down ChinGuy",
+      "vi": "Thu bé Cằm Chẻ lại"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_22",
+      "en": "Find Lord Meow!",
+      "vi": "Hãy tìm Đấng Mèo!"
+    },
+    {
+      "key": "HINT_LEVEL_22",
+      "en": "The pink one kinda sus...",
+      "vi": "Màu Hồng có gì đó đáng ngờ..."
+    },
+
+    {
+      "key": "QUESTION_LEVEL_23",
+      "en": "Help Kiwi Na find her phone!",
+      "vi": "Giúp Kiwi Na tìm điện thoại!"
+    },
+    {
+      "key": "HINT_LEVEL_23",
+      "en": "On her hand",
+      "vi": "Trên tay của cô ấy"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_24",
+      "en": "Find the next numer: 1, 1, 2, 3, 5, ?",
+      "vi": "Tìm số tiếp theo: 1, 1, 2, 3, 5, ?!"
+    },
+    {
+      "key": "HINT_LEVEL_24",
+      "en": "The sum of two adjacent numbers is the next number",
+      "vi": "Tổng của 2 số liền kề ra số tiếp theo"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_25",
+      "en": "Help hungry Potato get full!",
+      "vi": "Giúp Khoai tây đang đói được no bụng!"
+    },
+    {
+      "key": "HINT_LEVEL_25",
+      "en": "Tap to find the poison one",
+      "vi": "Ấn để tìm ra táo độc"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_26",
+      "en": "Keep safe!",
+      "vi": "Hãy giữ an toàn!"
+    },
+    {
+      "key": "HINT_LEVEL_26",
+      "en": "Dont touch anything",
+      "vi": "Đừng ấn gì cả"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_27",
+      "en": "How many candies on the bowl?",
+      "vi": "Có bao nhiêu chiếc kẹo trong bát?"
+    },
+    {
+      "key": "HINT_LEVEL_27",
+      "en": "Shake your phone to make candy fall out",
+      "vi": "Lắc điện thoại để làm rớt kẹo ra"
+    },
+    
+    {
+      "key": "QUESTION_LEVEL_28",
+      "en": "3 cats catch 3 mice in 3 minutes. So how long does it take 100 cats to catch 100 mices?",
+      "vi": "3 con mèo bắt 3 con chuột trong 3 phút. Hỏi 100 con mèo bắt 100 con chuột trong bao lâu?"
+    },
+    {
+      "key": "HINT_LEVEL_28",
+      "en": "1 cat takes 3 minutes to catch 1 mice so 100 cats need only 3 minutes",
+      "vi": "1 con mèo cần 3 phút bắt 1 con chuột nên 100 con mèo vẫn chỉ cần 3 phút"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_29",
+      "en": "Help Potato be bigger than ChinGuy!",
+      "vi": "Giúp Khoai Tay to hơn Cằm Chẻ!"
+    },
+    {
+      "key": "HINT_LEVEL_29",
+      "en": "The mushroom is behind the right bush",
+      "vi": "Cây nấm phía sau bụi cỏ bên phải"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_30",
+      "en": "Help Lord Meow wake up!",
+      "vi": "Giúp Đấng Mèo tỉnh dậy!"
+    },
+    {
+      "key": "HINT_LEVEL_30",
+      "en": "Shake the phone to scale up the clock",
+      "vi": "Lắc điện thoại để phóng to đồng hồ"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_31",
+      "en": "Find Potato!",
+      "vi": "Hãy tìm Khoai Tây!"
+    },
+    {
+      "key": "HINT_LEVEL_31",
+      "en": "Shake the phone",
+      "vi": "Lắc điện thoại"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_32",
+      "en": "Help ChinGuy and Kiwi Na break out!",
+      "vi": "Hãy giúp Cằm Chẻ và Kiwi Na vượt ngục!"
+    },
+    {
+      "key": "HINT_LEVEL_32",
+      "en": "Lord Meow have a key",
+      "vi": "Đấng Mèo cầm chìa khóa"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_33",
+      "en": "Help Kiwi Na wake up!",
+      "vi": "Hãy giúp Kiwi Na tỉnh dậy!"
+    },
+    {
+      "key": "HINT_LEVEL_33",
+      "en": "Touch that moon",
+      "vi": "Chạm vào mặt trăng"
+    },
+    
+    {
+      "key": "QUESTION_LEVEL_34",
+      "en": "Solve the math\n11 + 11 = 111\n33 + 33 = 393\n55 + 55 = 5255\n 77 + 77 = ?",
+      "vi": "Giải bài toán\n11 + 11 = 111\n33 + 33 = 393\n55 + 55 = 5255\n 77 + 77 = ?"
+    },
+    {
+      "key": "HINT_LEVEL_34",
+      "en": "11 + 11 = 1 (1x1) 1 = 111\n77 + 77 = 7 (7x7) 7 = 7497",
+      "vi": "11 + 11 = 1 (1x1) 1 = 111\n77 + 77 = 7 (7x7) 7 = 7497"
+    },
+    
+    {
+      "key": "QUESTION_LEVEL_35",
+      "en": "Count the shooting stars!",
+      "vi": "Đếm các ngôi sao băng!"
+    },
+    {
+      "key": "HINT_LEVEL_35",
+      "en": "Look behind them!",
+      "vi": "Hãy nhìn phía sau chúng!"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_36",
+      "en": "Find Kiwi Na!",
+      "vi": "Hãy tìm Kiwi Na!"
+    },
+    {
+      "key": "HINT_LEVEL_36",
+      "en": "Behind Lord Meow",
+      "vi": "Phía sau Đấng Mèo"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_37",
+      "en": "Help Kiwi Na be happy!",
+      "vi": "Giúp Kiwi Na trở nên vui vẻ!"
+    },
+    {
+      "key": "HINT_LEVEL_37",
+      "en": "Take a bunny from Lord Meow",
+      "vi": "Lấy con thỏ từ Đấng Mèo"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_38",
+      "en": "Help hungry Potato get full!",
+      "vi": "Giúp Khoai Tây được no bụng!"
+    },
+    {
+      "key": "HINT_LEVEL_38",
+      "en": "Drag all food to Potato",
+      "vi": "Kéo hết đồ ăn vào Khoai Tây"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_39",
+      "en": "Who is the tallest?",
+      "vi": "Ai là người cao nhất?"
+    },
+    {
+      "key": "HINT_LEVEL_39",
+      "en": "Drag the chair to Lord Meow",
+      "vi": "Kéo cái ghế vào Đấng Mèo"
+    },
+
+    {
+      "key": "QUESTION_LEVEL_40",
+      "en": "Help Lord Meow down to floor!",
+      "vi": "Giúp Đấng Mèo xuống đất!"
+    },
+    {
+      "key": "HINT_LEVEL_40",
+      "en": "Flip the phone",
+      "vi": "Xoay điện thoại lại"
+    }
+  ]
+}
